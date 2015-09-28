@@ -6,5 +6,5 @@ vel = 120
 dis = 60
 #vel = dis / tim
 tim = dis / vel
-tim = tim * 3600 + 3600
+tim = tim * 3600 
 print('A La Ambulancia Le Toma' +str(tim) +'Segundos En Llegar A Su Destino')
